@@ -1,2 +1,2 @@
 # zerotemperaturestring
-Python Implementation of the zero temperature string method
+This features a Python/numpy implementation of the zero temperature string (ZTS) method, based on previous [matlab](https://cims.nyu.edu/~eve2/string.htm) code. The plotstring.py script reads in an existing free energy surface, and determines a minimum free energy path between two specified points. This script uses [numpy](https://www.numpy.org/), [scipy](https://www.scipy.org/), and [matplotlib](https://matplotlib.org/) libraries. May this be useful in your own plotting endeavors!
